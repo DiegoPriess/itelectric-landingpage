@@ -4,8 +4,8 @@
 O IT-Eletric é um sistema de gerenciamento desenvolvido especificamente para profissionais autônomos do ramo de elétrica. Este sistema facilita o controle de orçamentos, gerenciamento financeiro e de clientes, através de uma interface web moderna e responsiva. O projeto foi desenvolvido como parte do trabalho de conclusão de curso em Engenharia de Software pelo Centro Universitário - Católica de Santa Catarina.
 
 Essa é a LANDING PAGE do projeto, que também conta com um front-end e um back-end, disponíveis nos repositórios:
-- [FRONT-END](https://github.com/DiegoPriess/iteletric-app)
-- [BACK-END](https://github.com/DiegoPriess/iteletric-api)
+- [FRONT-END](https://github.com/DiegoPriess/itelectric-app)
+- [BACK-END](https://github.com/DiegoPriess/itelectric-api)
 
 ## [Jira](https://diegopriessdev.atlassian.net/jira/software/projects/KAN/boards/1)
 
